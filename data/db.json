@@ -1,0 +1,21 @@
+{
+   "items":[
+       {
+        "id":1,
+        "checked":false,
+        "item":"coding"
+       },
+       {
+        "id":2,
+        "checked":true,
+        "item":"cybersecurity"
+       },
+       {
+        "id":3,
+        "checked":false,
+        "item":"dsa"
+       }
+    ]
+       
+    
+}
