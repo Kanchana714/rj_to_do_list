@@ -13,7 +13,8 @@ function Items({items,handlecheck,deletecheck}){
         onClick={()=>deletecheck(items.id)}
         role="button"
         tabIndex="0"
-       // aria-label={"Delete ${items.item}"}/>
+       // aria-label={"Delete ${items.item}"}
+        />
    </li>
   );
 }
